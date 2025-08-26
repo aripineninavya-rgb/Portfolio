@@ -1,0 +1,12 @@
+h1{
+  font-style: italic;
+  font-size: 40px;
+  font-weight: 300;
+}
+p{
+    color: rgb(0, 162, 249);
+    background-color: bisque;
+}
+body{
+    background-image: url(../image/download.png)
+}
